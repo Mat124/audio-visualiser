@@ -1,0 +1,13 @@
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\bin\Release\GUI.exe.config
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\bin\Release\GUI.exe
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\bin\Release\GUI.pdb
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\bin\Release\GUI.xml
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Release\GUI.GUI.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Release\GUI.Resources.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Release\GUI.UnclosableForm.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Release\Audio Visualiser.vbproj.GenerateResource.cache
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Release\Audio Visualiser.vbproj.CoreCompileInputs.cache
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Release\GUI.exe
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Release\GUI.xml
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Release\GUI.pdb
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Release\GUI.GraphForm.resources

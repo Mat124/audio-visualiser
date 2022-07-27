@@ -1,0 +1,40 @@
+getting weird lengths of array, should only be pwoers of 2 but getting 271 					fixed
+
+faster to do the fft on 32 bit floating points or to convert 32 bit to 16 bit int and do fft on that
+
+add channel exception for when the channel amount is more than 2			oops never did it
+
+the from wav file functionality is pretty much useless, introduces issues with timing and doesn't actually give any benefits - remove the functionality?			removed
+
+forms inheriting unclosableform cant be designed, but unclosableform can wtf - 				fixed by changing to not mustinherit
+
+record the output from speakers - need to find samplerate, channels and bit depth as well as learn how to actaully use naudio			fixed
+buffer wasapiloopbackcapture to something, then find the format of the sound, and then pass that to the fft to do the fft on it			fixed
+
+
+make chart fill out new form - 				fixed
+
+create graph settings forms, and can have new values called - 					fixed
+needs to 'grey out' settings that aren't appllicable to certain graph types				oops never did that
+settings forms: - choose colour of graph				fixed
+		- width of individual lines				fixed
+		- max height						fixed	
+		- seperation of lines					bad idea not implemented
+		- sensitivity of graph					fixed
+		- spectrum invert					fixed
+		- scale toggle						fixed
+		- change type of graph					fixed
+
+not sure if line speration is real or not, may need to remove from ojectives			removed lmao
+
+radar chart type causes crash									just removed that graph type ez fix
+
+make graph on base form be a preview of what graph would look like - done				fixed
+
+naudio record and buffer sound									fixed
+
+fix fft? kind of works but also doesnt, see FromFileAndLiveProtoWithCooley-Tukey, click on graph						fixed
+
+transfer everything created in runtime to created in initialisation for GraphForm, LEDSettingsForm, GraphSettingsForm - done					fixed
+
+create an abstract class for GraphForm, LEDSettingsForm, GraphSettingsForm containing closing function to stop it from being destroyed - done		fixed but then changed back as this caused issues when designing				

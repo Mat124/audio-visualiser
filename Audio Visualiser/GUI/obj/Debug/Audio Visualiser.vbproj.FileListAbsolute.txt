@@ -1,0 +1,227 @@
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\bin\Debug\GUI.exe.config
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\bin\Debug\GUI.exe
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\bin\Debug\GUI.pdb
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\bin\Debug\GUI.xml
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbprojAssemblyReference.cache
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\GUI.GUI.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\GUI.Resources.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.GenerateResource.cache
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CoreCompileInputs.cache
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\GUI.exe
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\GUI.xml
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\GUI.pdb
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\GUI.UnclosableForm.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\GUI.GraphForm.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\GUI.GraphSettingsForm.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\bin\Debug\NAudio.dll
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\bin\Debug\NAudio.xml
+\\lapetus\home\2018\18MK0435\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CopyComplete
+C:\Users\Mat\Documents\Computer Science NEA\Audio Visualiser\GUI\bin\Debug\GUI.exe.config
+C:\Users\Mat\Documents\Computer Science NEA\Audio Visualiser\GUI\bin\Debug\GUI.exe
+C:\Users\Mat\Documents\Computer Science NEA\Audio Visualiser\GUI\bin\Debug\GUI.pdb
+C:\Users\Mat\Documents\Computer Science NEA\Audio Visualiser\GUI\bin\Debug\GUI.xml
+C:\Users\Mat\Documents\Computer Science NEA\Audio Visualiser\GUI\bin\Debug\NAudio.dll
+C:\Users\Mat\Documents\Computer Science NEA\Audio Visualiser\GUI\bin\Debug\NAudio.xml
+C:\Users\Mat\Documents\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbprojAssemblyReference.cache
+C:\Users\Mat\Documents\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\GUI.GraphForm.resources
+C:\Users\Mat\Documents\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\GUI.GraphSettingsForm.resources
+C:\Users\Mat\Documents\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\GUI.GUI.resources
+C:\Users\Mat\Documents\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\GUI.Resources.resources
+C:\Users\Mat\Documents\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\GUI.UnclosableForm.resources
+C:\Users\Mat\Documents\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.GenerateResource.cache
+C:\Users\Mat\Documents\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CoreCompileInputs.cache
+C:\Users\Mat\Documents\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CopyComplete
+C:\Users\Mat\Documents\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\GUI.exe
+C:\Users\Mat\Documents\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\GUI.xml
+C:\Users\Mat\Documents\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\GUI.pdb
+C:\Users\Mat\Documents\Computer Science NEA\Audio Visualiser\GUI\obj\Debug\GUI.LEDSettingsForm.resources
+E:\Computer Science NEA - NEW\Audio Visualiser\GUI\bin\Debug\GUI.exe.config
+E:\Computer Science NEA - NEW\Audio Visualiser\GUI\bin\Debug\GUI.exe
+E:\Computer Science NEA - NEW\Audio Visualiser\GUI\bin\Debug\GUI.pdb
+E:\Computer Science NEA - NEW\Audio Visualiser\GUI\bin\Debug\GUI.xml
+E:\Computer Science NEA - NEW\Audio Visualiser\GUI\bin\Debug\NAudio.dll
+E:\Computer Science NEA - NEW\Audio Visualiser\GUI\bin\Debug\NAudio.xml
+E:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbprojAssemblyReference.cache
+E:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\GUI.GraphForm.resources
+E:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\GUI.GraphSettingsForm.resources
+E:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\GUI.GUI.resources
+E:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\GUI.LEDSettingsForm.resources
+E:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\GUI.Resources.resources
+E:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\GUI.UnclosableForm.resources
+E:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.GenerateResource.cache
+E:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CoreCompileInputs.cache
+E:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CopyComplete
+E:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\GUI.exe
+E:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\GUI.xml
+E:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\GUI.pdb
+D:\Computer Science NEA - NEW\Audio Visualiser\GUI\bin\Debug\GUI.exe.config
+D:\Computer Science NEA - NEW\Audio Visualiser\GUI\bin\Debug\GUI.exe
+D:\Computer Science NEA - NEW\Audio Visualiser\GUI\bin\Debug\GUI.pdb
+D:\Computer Science NEA - NEW\Audio Visualiser\GUI\bin\Debug\GUI.xml
+D:\Computer Science NEA - NEW\Audio Visualiser\GUI\bin\Debug\NAudio.dll
+D:\Computer Science NEA - NEW\Audio Visualiser\GUI\bin\Debug\NAudio.xml
+D:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbprojAssemblyReference.cache
+D:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\GUI.GraphForm.resources
+D:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\GUI.GraphSettingsForm.resources
+D:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\GUI.GUI.resources
+D:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\GUI.LEDSettingsForm.resources
+D:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\GUI.Resources.resources
+D:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\GUI.UnclosableForm.resources
+D:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.GenerateResource.cache
+D:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CoreCompileInputs.cache
+D:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CopyComplete
+D:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\GUI.exe
+D:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\GUI.xml
+D:\Computer Science NEA - NEW\Audio Visualiser\GUI\obj\Debug\GUI.pdb
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW\Computer Science NEA - NEW v2\Audio Visualiser\GUI\bin\Debug\GUI.exe.config
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW\Computer Science NEA - NEW v2\Audio Visualiser\GUI\bin\Debug\GUI.exe
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW\Computer Science NEA - NEW v2\Audio Visualiser\GUI\bin\Debug\GUI.pdb
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW\Computer Science NEA - NEW v2\Audio Visualiser\GUI\bin\Debug\GUI.xml
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW\Computer Science NEA - NEW v2\Audio Visualiser\GUI\bin\Debug\NAudio.dll
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW\Computer Science NEA - NEW v2\Audio Visualiser\GUI\bin\Debug\NAudio.xml
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbprojAssemblyReference.cache
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\GUI.GraphForm.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\GUI.GraphSettingsForm.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\GUI.GUI.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\GUI.LEDSettingsForm.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\GUI.Resources.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\GUI.UnclosableForm.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.GenerateResource.cache
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CoreCompileInputs.cache
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CopyComplete
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\GUI.exe
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\GUI.xml
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\GUI.pdb
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v2\Audio Visualiser\GUI\bin\Debug\GUI.exe.config
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v2\Audio Visualiser\GUI\bin\Debug\GUI.exe
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v2\Audio Visualiser\GUI\bin\Debug\GUI.pdb
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v2\Audio Visualiser\GUI\bin\Debug\GUI.xml
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v2\Audio Visualiser\GUI\bin\Debug\NAudio.dll
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v2\Audio Visualiser\GUI\bin\Debug\NAudio.xml
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbprojAssemblyReference.cache
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\GUI.GraphForm.resources
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\GUI.GraphSettingsForm.resources
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\GUI.GUI.resources
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\GUI.LEDSettingsForm.resources
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\GUI.Resources.resources
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\GUI.UnclosableForm.resources
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.GenerateResource.cache
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CoreCompileInputs.cache
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CopyComplete
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\GUI.exe
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\GUI.xml
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v2\Audio Visualiser\GUI\obj\Debug\GUI.pdb
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\GUI.exe.config
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\GUI.exe
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\GUI.pdb
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\GUI.xml
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\NAudio.dll
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\NAudio.xml
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbprojAssemblyReference.cache
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.GraphForm.resources
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.GraphSettingsForm.resources
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.GUI.resources
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.LEDSettingsForm.resources
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.Resources.resources
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.UnclosableForm.resources
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.GenerateResource.cache
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CoreCompileInputs.cache
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CopyComplete
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.exe
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.xml
+C:\Users\Mat\Documents\Computer Science NEA\NEAv3\Computer Science NEA - NEW v2-20191128T184312Z-001\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.pdb
+G:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\GUI.exe.config
+G:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\GUI.exe
+G:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\GUI.pdb
+G:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\GUI.xml
+G:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\NAudio.dll
+G:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\NAudio.xml
+G:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbprojAssemblyReference.cache
+G:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.GraphForm.resources
+G:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.GraphSettingsForm.resources
+G:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.GUI.resources
+G:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.LEDSettingsForm.resources
+G:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.Resources.resources
+G:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.UnclosableForm.resources
+G:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.GenerateResource.cache
+G:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CoreCompileInputs.cache
+G:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CopyComplete
+G:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.exe
+G:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.xml
+G:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.pdb
+E:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\GUI.exe.config
+E:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\GUI.exe
+E:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\GUI.pdb
+E:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\GUI.xml
+E:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\NAudio.dll
+E:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\NAudio.xml
+E:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbprojAssemblyReference.cache
+E:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.GraphForm.resources
+E:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.GraphSettingsForm.resources
+E:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.GUI.resources
+E:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.LEDSettingsForm.resources
+E:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.Resources.resources
+E:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.UnclosableForm.resources
+E:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.GenerateResource.cache
+E:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CoreCompileInputs.cache
+E:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CopyComplete
+E:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.exe
+E:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.xml
+E:\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.pdb
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\GUI.exe.config
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\GUI.exe
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\GUI.pdb
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\GUI.xml
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\NAudio.dll
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3\Audio Visualiser\GUI\bin\Debug\NAudio.xml
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbprojAssemblyReference.cache
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.GraphForm.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.GraphSettingsForm.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.GUI.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.LEDSettingsForm.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.Resources.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.UnclosableForm.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.GenerateResource.cache
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CoreCompileInputs.cache
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CopyComplete
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.exe
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.xml
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3\Audio Visualiser\GUI\obj\Debug\GUI.pdb
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3.1\Audio Visualiser\GUI\bin\Debug\GUI.exe.config
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3.1\Audio Visualiser\GUI\bin\Debug\GUI.exe
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3.1\Audio Visualiser\GUI\bin\Debug\GUI.pdb
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3.1\Audio Visualiser\GUI\bin\Debug\GUI.xml
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3.1\Audio Visualiser\GUI\bin\Debug\NAudio.dll
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3.1\Audio Visualiser\GUI\bin\Debug\NAudio.xml
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3.1\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbprojAssemblyReference.cache
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3.1\Audio Visualiser\GUI\obj\Debug\GUI.GraphForm.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3.1\Audio Visualiser\GUI\obj\Debug\GUI.GraphSettingsForm.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3.1\Audio Visualiser\GUI\obj\Debug\GUI.GUI.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3.1\Audio Visualiser\GUI\obj\Debug\GUI.LEDSettingsForm.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3.1\Audio Visualiser\GUI\obj\Debug\GUI.Resources.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3.1\Audio Visualiser\GUI\obj\Debug\GUI.UnclosableForm.resources
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3.1\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.GenerateResource.cache
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3.1\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CoreCompileInputs.cache
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3.1\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CopyComplete
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3.1\Audio Visualiser\GUI\obj\Debug\GUI.exe
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3.1\Audio Visualiser\GUI\obj\Debug\GUI.xml
+\\lapetus\home\2018\18MK0435\Computer Science NEA - NEW v3.1\Audio Visualiser\GUI\obj\Debug\GUI.pdb
+G:\Computer Science NEA - NEW v3.2\Audio Visualiser\GUI\bin\Debug\GUI.exe.config
+G:\Computer Science NEA - NEW v3.2\Audio Visualiser\GUI\bin\Debug\GUI.exe
+G:\Computer Science NEA - NEW v3.2\Audio Visualiser\GUI\bin\Debug\GUI.pdb
+G:\Computer Science NEA - NEW v3.2\Audio Visualiser\GUI\bin\Debug\GUI.xml
+G:\Computer Science NEA - NEW v3.2\Audio Visualiser\GUI\bin\Debug\NAudio.dll
+G:\Computer Science NEA - NEW v3.2\Audio Visualiser\GUI\bin\Debug\NAudio.xml
+G:\Computer Science NEA - NEW v3.2\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbprojAssemblyReference.cache
+G:\Computer Science NEA - NEW v3.2\Audio Visualiser\GUI\obj\Debug\GUI.GraphForm.resources
+G:\Computer Science NEA - NEW v3.2\Audio Visualiser\GUI\obj\Debug\GUI.GraphSettingsForm.resources
+G:\Computer Science NEA - NEW v3.2\Audio Visualiser\GUI\obj\Debug\GUI.GUI.resources
+G:\Computer Science NEA - NEW v3.2\Audio Visualiser\GUI\obj\Debug\GUI.LEDSettingsForm.resources
+G:\Computer Science NEA - NEW v3.2\Audio Visualiser\GUI\obj\Debug\GUI.Resources.resources
+G:\Computer Science NEA - NEW v3.2\Audio Visualiser\GUI\obj\Debug\GUI.UnclosableForm.resources
+G:\Computer Science NEA - NEW v3.2\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.GenerateResource.cache
+G:\Computer Science NEA - NEW v3.2\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CoreCompileInputs.cache
+G:\Computer Science NEA - NEW v3.2\Audio Visualiser\GUI\obj\Debug\Audio Visualiser.vbproj.CopyComplete
+G:\Computer Science NEA - NEW v3.2\Audio Visualiser\GUI\obj\Debug\GUI.exe
+G:\Computer Science NEA - NEW v3.2\Audio Visualiser\GUI\obj\Debug\GUI.xml
+G:\Computer Science NEA - NEW v3.2\Audio Visualiser\GUI\obj\Debug\GUI.pdb
